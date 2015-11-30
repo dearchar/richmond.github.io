@@ -7,7 +7,6 @@ body {
   color: #5a5a5a;
 }
 
-
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -60,6 +59,10 @@ body {
   height: 500px;
 }
 
+.jumbotron {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
