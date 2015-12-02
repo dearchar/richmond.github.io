@@ -32,6 +32,9 @@ body {
   width: auto;
 }
 
+.navbar-brand {
+  color: #0080FF;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -62,7 +65,11 @@ body {
 .jumbotron {
   padding-top: 100px;
   padding-bottom: 20px;
-}
+  background-image:url("../images/runner.jpg");
+  color: #C0C0C0;
+} 
+
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
