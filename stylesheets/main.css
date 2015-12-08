@@ -32,8 +32,8 @@ body {
   width: auto;
 }
 
-.navbar-brand {
-  color: #0080FF;
+.navbar-inverse a.navbar-brand {
+  color: #009999;
 }
 
 /* CUSTOMIZE THE CAROUSEL
