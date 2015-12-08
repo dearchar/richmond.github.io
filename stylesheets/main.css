@@ -5,6 +5,7 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  background-color: #E0E0E0;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -62,11 +63,11 @@ body {
   height: 300px;
   padding-top: 100px;
   padding-bottom: 20px;
-  background-image:url("../images/Richmond-upon-Thames-009.jpg");
+  background-image:url("../images/running2.jpg");
   background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #FFFFFF;
 } 
 
 .jumbotron2 {
@@ -77,7 +78,7 @@ body {
   background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #41A975;
 } 
 
 .jumbotron3 {
@@ -88,8 +89,30 @@ body {
   background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
+  color: #7E4C94;
+} 
+
+.jumbotron4 {
+  height: 300px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-image:url("../images/richmond_bridge.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #FFFFFF;
 } 
+
+.jumbotron5 {
+  height: 300px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-image:url("../images/richmond-upon-thames-009.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+}
 
 .huge {
   font-size: 100px;
